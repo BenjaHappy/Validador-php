@@ -98,6 +98,9 @@ Este repositorio está pensado como ejemplo de buenas prácticas en validación 
 
 Puede adaptarse fácilmente a reglas de negocio personalizadas.
 
+Este proyecto se publica únicamente con fines demostrativos como parte de mi portafolio profesional.  
+No está destinado para uso en producción ni garantiza soporte.
+
 Autor:
 
 Desarrollado por Benja
